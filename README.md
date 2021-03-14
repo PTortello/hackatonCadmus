@@ -24,7 +24,7 @@ O desafio desse Hackathon é criarmos um gerador de códigos para que as tarefas
 
 *  [Tecnologias](#tecnologias)
 
-*  [GitFlow](#gitflow)
+*  [Git](#git)
 
 *  [Time](#time)
 
@@ -89,11 +89,11 @@ $ monster --help
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
-[Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
+- [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
 
-[SDK .Net Core 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
+- [SDK .Net Core 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
 
-[Git](https://git-scm.com/)
+- [Git](https://git-scm.com/)
 
 Você também precisa de uma solução já criada com as Classes das Models previamente feitas. 
 Essas Classes serão usadas como parâmetro para a Geração do CRUD automática.
@@ -135,11 +135,11 @@ $ dotnet tool uninstall -g cadmus.monster
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--  [Donet Core 5.0](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-5.0)
+-  [Dotnet Core 5.0](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-5.0)
 
   
 
-## Git:
+## Git
 
 ```bash
 
