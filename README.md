@@ -37,7 +37,7 @@ Foi criado uma library que tem por função a criação do CRUD automatizado, ap
 
 A library deve ser instalada globalmente no computador para a utilização via CLI(verificar no tópico "Instalação")
 
-Para essa solução, é pressuposto que será usador Dapper como ORM e SQL-SERVER como Banco de Dados.
+Para essa solução, é pressuposto que será usado Dapper como ORM e SQL-SERVER como Banco de Dados.
 
 Comandos:
 ```bash
